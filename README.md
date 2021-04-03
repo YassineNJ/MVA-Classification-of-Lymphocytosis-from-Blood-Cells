@@ -8,4 +8,4 @@ is represented by a bag of blood smear images and few clinical attributes.
 
 Please check the report for more details.
 
-Link to the Kaggle competition :  https://www.kaggle.com/c/3md3070-dlmi
+Link to the Kaggle competition :  https://www.kaggle.com/c/3md3070-dlmi/leaderboard
